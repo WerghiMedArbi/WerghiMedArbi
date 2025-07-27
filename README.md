@@ -60,6 +60,8 @@ A cross-platform mobile app to monitor telecom usage and alert users with smart 
 
 ---
 
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=werghimedarbi&show_icons=true&theme=dark
+)
 
 
 
